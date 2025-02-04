@@ -1,1 +1,2 @@
-# saas_subscriptions
+# Laravel Проєкт
+Цей проєкт створений на Laravel.
